@@ -1,0 +1,65 @@
+define Vowel [a|e|i|o|u];
+define C [m|n|t|k|q|b|d|ɖ|ʔ|ɡ|d⁀ʒ|f|s|ʃ|x|ħ|h|ʕ|l|j|r|w];
+define Voiced [d|b|ɖ|g];
+define Voiceless [ɣ|ð|ʐ];
+define LenitionD d -> ð || Vowel _ Vowel;
+define LenitionB b -> β || Vowel _ Vowel;
+define Lenetionɖ ɖ -> ʐ || Vowel _ Vowel;
+define LenetionG g -> ɣ || Vowel _ Vowel;
+define Lenetion LenitionD .o. LenitionB .o. Lenetionɖ .o. LenetionG;
+define TDeletionD t -> [] || d _;
+define TDeletionɖ t -> [] || ɖ _;
+define TDeletion TDeletionD .o. TDeletionɖ;
+define LTtoʃ lt -> ʃ;
+define MtoN m -> n || _ t;
+define NtoL n -> l || l _ ;
+define VowelInsertionA [..] -> a || a C _ C C;
+define VowelInsertionE [..] -> e || e C _ C C;
+define VowelInsertionI [..] -> i || i C _ C C;
+define VowelInsertionO [..] -> o || o C _ C C;
+define VowelInsertionU [..] -> u || u C _ C C;
+define VowelInsertion VowelInsertionI .o. VowelInsertionE .o. VowelInsertionA .o. VowelInsertionO .o. VowelInsertionU;
+read regex VowelInsertion .o. Lenetion .o. LTtoʃ .o. MtoN .o. NtoL .o. TDeletion;
+
+apply down gaʕmta
+apply down laamta
+apply down laamo
+apply down simo
+apply down d⁀ʒid
+apply down bagl
+apply down jirdta
+apply down kefedta
+apply down boholta
+apply down baɣalta
+apply down naago
+apply down ʔulta
+apply down hadaltaj
+apply down sabo
+apply down feeɖo
+apply down gabɖta
+apply down sugaj
+apply down sidtaj
+apply down irbadta
+apply down qosoltaj
+apply up gaʕanta
+apply up laanta
+apply up laamo
+apply up simo
+apply up d⁀ʒid
+apply up baɣal
+apply up jirida
+apply up kefeda
+apply up bohoʃa
+apply up baɣaʃa
+apply up naaɣo
+apply up ʔuʃa
+apply up haðaʃaj
+apply up saβo
+apply up feeʐo
+apply up gaβaɖa
+apply up suɣaj
+apply up sidaj
+apply up irbada
+apply up qosoʃaj
+
+

@@ -1,0 +1,98 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 18.86766439909297 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "nu" 
+        xmin = 0 
+        xmax = 18.86766439909297 
+        intervals: size = 21 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.1240364440559305 
+            text = "" 
+        intervals [2]:
+            xmin = 1.1240364440559305 
+            xmax = 1.825823417648223 
+            text = "u" 
+        intervals [3]:
+            xmin = 1.825823417648223 
+            xmax = 2.8466044701461026 
+            text = "" 
+        intervals [4]:
+            xmin = 2.8466044701461026 
+            xmax = 3.484592627957278 
+            text = "u" 
+        intervals [5]:
+            xmin = 3.484592627957278 
+            xmax = 4.537273088345716 
+            text = "" 
+        intervals [6]:
+            xmin = 4.537273088345716 
+            xmax = 5.239060061938009 
+            text = "u" 
+        intervals [7]:
+            xmin = 5.239060061938009 
+            xmax = 6.291740522326447 
+            text = "" 
+        intervals [8]:
+            xmin = 6.291740522326447 
+            xmax = 6.897829272247064 
+            text = "u" 
+        intervals [9]:
+            xmin = 6.897829272247064 
+            xmax = 7.982409140526061 
+            text = "" 
+        intervals [10]:
+            xmin = 7.982409140526061 
+            xmax = 8.556598482556119 
+            text = "u" 
+        intervals [11]:
+            xmin = 8.556598482556119 
+            xmax = 9.80067539028791 
+            text = "" 
+        intervals [12]:
+            xmin = 9.80067539028791 
+            xmax = 10.470562955989644 
+            text = "u" 
+        intervals [13]:
+            xmin = 10.470562955989644 
+            xmax = 11.746539271611994 
+            text = "" 
+        intervals [14]:
+            xmin = 11.746539271611994 
+            xmax = 12.256929797860934 
+            text = "u" 
+        intervals [15]:
+            xmin = 12.256929797860934 
+            xmax = 13.501006705592724 
+            text = "" 
+        intervals [16]:
+            xmin = 13.501006705592724 
+            xmax = 14.043296639732223 
+            text = "u" 
+        intervals [17]:
+            xmin = 14.043296639732223 
+            xmax = 15.351172363245132 
+            text = "" 
+        intervals [18]:
+            xmin = 15.351172363245132 
+            xmax = 15.957261113165748 
+            text = "u" 
+        intervals [19]:
+            xmin = 15.957261113165748 
+            xmax = 17.073740389335303 
+            text = "" 
+        intervals [20]:
+            xmin = 17.073740389335303 
+            xmax = 17.71172854714648 
+            text = "u" 
+        intervals [21]:
+            xmin = 17.71172854714648 
+            xmax = 18.86766439909297 
+            text = "" 

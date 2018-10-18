@@ -1,0 +1,63 @@
+define Voiceless [p|t];
+define Devoicing z -> s || Voiceless _ .#.;
+read regex Devoicing;
+apply down pz
+
+define Devoicing ɖ -> ʐ || Vowel _ Vowel;
+define Devoicing g -> ɣ || Vowel _ Vowel;
+define VowelInsertion [] -> i || i C _ C C;
+define VowelInsertion [] -> u || u C _ C C;
+
+
+define lt_changeto_ʃ lt -> ʃ;
+
+read regex VowelInsertion .o. Devoicing .o. lt_changeto_ʃ .o. M_changeto_N .o. t-Deletion;
+
+read regex VowelInsertion .o. Devoicing .o. M_changeto_N .o. t-Deletion;
+
+
+
+apply down gaʕmta
+apply down laamta
+apply down laamo
+apply down simo
+apply down d⁀ʒid
+apply down bagl
+apply down jirdta
+apply down kefedta
+apply down boholta
+apply down baɣalta
+apply down naago
+apply down ʔulta
+apply down hadaltaj
+apply down sabo
+apply down feeɖo
+apply down gabɖta
+apply down sugaj
+apply down sidtaj
+apply down irbadta
+apply down qosoltaj
+apply up gaʕanta
+apply up laanta
+apply up laamo
+apply up simo
+apply up d⁀ʒid
+apply up baɣal
+apply up jirida
+apply up kefeda
+apply up bohoʃa
+apply up baɣaʃa
+apply up naaɣo
+apply up ʔuʃa
+apply up haðaʃaj
+apply up saβo
+apply up feeʐo
+apply up gaβaɖa
+apply up suɣaj
+apply up sidaj
+apply up irbada
+apply up qosoʃaj
+
+
+
+

@@ -1,0 +1,3 @@
+read lexc < swahili2.lexc
+define Verb;
+read regex Verb;

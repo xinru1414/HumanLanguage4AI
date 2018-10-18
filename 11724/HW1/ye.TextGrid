@@ -1,0 +1,102 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 17.62829931972789 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "ye" 
+        xmin = 0 
+        xmax = 17.62829931972789 
+        intervals: size = 22 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.378045832632888 
+            text = "" 
+        intervals [2]:
+            xmin = 1.378045832632888 
+            xmax = 1.676086066189243 
+            text = "ie" 
+        intervals [3]:
+            xmin = 1.676086066189243 
+            xmax = 2.927855047125934 
+            text = "" 
+        intervals [4]:
+            xmin = 2.927855047125934 
+            xmax = 3.1662872339710177 
+            text = "ie" 
+        intervals [5]:
+            xmin = 3.1662872339710177 
+            xmax = 4.4478602382633445 
+            text = "" 
+        intervals [6]:
+            xmin = 4.4478602382633445 
+            xmax = 4.686292425108428 
+            text = "ie" 
+        intervals [7]:
+            xmin = 4.686292425108428 
+            xmax = 5.967865429400755 
+            text = "" 
+        intervals [8]:
+            xmin = 5.967865429400755 
+            xmax = 6.295709686312745 
+            text = "ie" 
+        intervals [9]:
+            xmin = 6.295709686312745 
+            xmax = 7.607086713960706 
+            text = "" 
+        intervals [10]:
+            xmin = 7.607086713960706 
+            xmax = 7.934930970872698 
+            text = "ie" 
+        intervals [11]:
+            xmin = 7.934930970872698 
+            xmax = 9.156895928453753 
+            text = "" 
+        intervals [12]:
+            xmin = 9.156895928453753 
+            xmax = 9.425132138654472 
+            text = "ie" 
+        intervals [13]:
+            xmin = 9.425132138654472 
+            xmax = 9.514544208721379 
+            text = "" 
+        intervals [14]:
+            xmin = 9.514544208721379 
+            xmax = 10.587489049524256 
+            text = "" 
+        intervals [15]:
+            xmin = 10.587489049524256 
+            xmax = 11.004745376503154 
+            text = "ie" 
+        intervals [16]:
+            xmin = 11.004745376503154 
+            xmax = 12.256514357439844 
+            text = "" 
+        intervals [17]:
+            xmin = 12.256514357439844 
+            xmax = 12.465142520929293 
+            text = "ie" 
+        intervals [18]:
+            xmin = 12.465142520929293 
+            xmax = 13.716911501865985 
+            text = "" 
+        intervals [19]:
+            xmin = 13.716911501865985 
+            xmax = 14.104363805489246 
+            text = "ie" 
+        intervals [20]:
+            xmin = 14.104363805489246 
+            xmax = 15.26672071635903 
+            text = "" 
+        intervals [21]:
+            xmin = 15.26672071635903 
+            xmax = 15.564760949915385 
+            text = "ie" 
+        intervals [22]:
+            xmin = 15.564760949915385 
+            xmax = 17.62829931972789 
+            text = "" 

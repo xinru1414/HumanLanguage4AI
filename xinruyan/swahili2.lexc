@@ -1,0 +1,76 @@
+Multichar_Symbols
++N +V
++Sg +Pl
++1SgS +2SgS +3SgS +1PlS +3PlS
++1SgO +2SgO +3SgO +1PlO +3PlO
++Fut +Pres +Perf +Past
+
+LEXICON Root
++N:0 Noun;
++V:0 Verb;
+
+LEXICON Noun
++Sg:u Add;
++Sg:w Add;
++Pl:m Add;
++Pl:ŋ Add;
++Pl:n Add;
++Pl:ɲ Add;
++Pl:0 Add;
+
+LEXICON Verb
++3SgS:a Aspect;
++1SgS:ni Aspect;
++2SgS:u Aspect;
++1PlS:tʰu Aspect;
++3PlS:wa Aspect;
+
+LEXICON Aspect
++Fut:ta	Object;
++Pres:na Object;
++Perf:me Object;
++Past:li Object;
+
+LEXICON Object
++1SgO:ni Add;
++2SgO:ku Add;
++3SgO:m Add;
++1PlO:tu Add;
++3PlO:wa Add;
+
+LEXICON Add
++:0 Stem;
+
+LEXICON Stem
+bao #;
+bawa #;
+devu #;
+gwe #;
+wati #;
+wanda #;
+wiŋgu #;
+limi #;
+paŋga #;
+pindi #;
+tambi #;
+tepe #;
+kuta #;
+kuni #;
+kut⁀ʃa #;
+fuŋguo #;
+fagio #;
+fizi #;
+vumbi #;
+siku #;
+ʃaŋga #;
+akati #;
+avu #;
+ajo #;
+embe #;
+imbo #;
+penda #;
+sumbua #;
+piga #;
+lipa #;
+
+

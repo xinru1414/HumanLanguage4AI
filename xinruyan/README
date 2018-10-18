@@ -1,0 +1,7 @@
+swahili1.lexc & swahili1.foma: for Nouns
+swahili2.lexc & swahili2.foma: for Verbs
+test_case: a set of test cases that I have used to test the systems
+command line usage:
+	foma -l swahili2.foma
+	then run commands in the test_case
+xinru.pdf: contains the full tables for Nouns and Verbs

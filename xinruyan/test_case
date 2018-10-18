@@ -1,0 +1,44 @@
+# Test case for swahili1.foma:
+apply up mbao
+apply up ubao
+apply up mbawa
+apply up ubawa
+apply up ndimi
+apply up ŋgwe
+apply up uwiŋgu
+apply up mbiŋgu
+apply up pʰaŋga
+apply up utepe
+apply up tʰambi
+apply up fuŋguo
+apply up ɲembe
+apply up kʰuta
+apply up wimbo
+apply up tʰepe
+
+apply down +N+Pl+bao
+apply down +N+Sg+bao
+apply down +N+Pl+bawa
+apply down +N+Sg+bawa
+apply down +N+Pl+limi
+apply down +N+Pl+gwe
+apply down +N+Pl+wiŋgu
+apply down +N+Pl+paŋga
+apply down +N+Sg+tepe
+apply down +N+Pl+tambi
+apply down +N+Pl+fuŋguo
+apply down +N+Pl+embe
+apply down +N+Pl+kuta
+apply down +N+Sg+imbo
+apply down +N+Pl+tepe
+
+# Test case for swahili2.foma:
+apply up tʰunawapiga
+apply up unamsumbua
+apply up nitawapenda
+apply up wametulipa
+
+apply down +V+1PlS+Pres+3PlO+piga
+apply down +V+2SgS+Pres+3SgO+sumbua
+apply down +V+1SgS+Fut+3PlO+penda
+apply down +V+3PlS+Perf+1PlO+lipa

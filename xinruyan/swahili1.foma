@@ -1,0 +1,13 @@
+read lexc < swahili1.lexc
+define Noun;
+define Vowel [a|e|i|o|u];
+define Consonant [m|n|t|p|t⁀ʃ|k|ŋ];
+define Original [b|d|pʰ|tʰ|kʰ];
+define ChangeTo [w|l|p|t|k];
+define OtoCb w -> b || Consonant _ Vowel;
+define OtoCd l -> d || Consonant _ Vowel;
+define OtoCpʰ p -> pʰ ||   _ [a|e|i|o|u] Consonant;
+define OtoCtʰ t -> tʰ ||   _ [a|e|i|o|u] Consonant;
+define OtoCkʰ k -> kʰ ||   _ [a|e|i|o|u] Consonant;
+define OtoC OtoCb .o. OtoCd .o. OtoCpʰ .o. OtoCtʰ .o. OtoCkʰ;
+read regex Noun .o. OtoC;

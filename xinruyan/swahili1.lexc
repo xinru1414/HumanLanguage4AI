@@ -1,0 +1,46 @@
+Multichar_Symbols
++N
++Sg +Pl
+
+LEXICON Root
++N:0 Noun;
+
+LEXICON Noun
++Sg:u Add;
++Sg:w Add;
++Pl:m Add;
++Pl:ŋ Add;
++Pl:n Add;
++Pl:ɲ Add;
++Pl:0 Add;
+
+LEXICON Add
++:0 Stem;
+
+LEXICON Stem
+bao #;
+bawa #;
+devu #;
+gwe #;
+wati #;
+wanda #;
+wiŋgu #;
+limi #;
+paŋga #;
+pindi #;
+tambi #;
+tepe #;
+kuta #;
+kuni #;
+kut⁀ʃa #;
+fuŋguo #;
+fagio #;
+fizi #;
+vumbi #;
+siku #;
+ʃaŋga #;
+akati #;
+avu #;
+ajo #;
+embe #;
+imbo #;

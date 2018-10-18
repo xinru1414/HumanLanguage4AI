@@ -1,0 +1,98 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 16.875102040816326 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "er" 
+        xmin = 0 
+        xmax = 16.875102040816326 
+        intervals: size = 21 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.0053300339575697 
+            text = "" 
+        intervals [2]:
+            xmin = 1.0053300339575697 
+            xmax = 1.4903502134956121 
+            text = "er" 
+        intervals [3]:
+            xmin = 1.4903502134956121 
+            xmax = 2.5459823689607637 
+            text = "" 
+        intervals [4]:
+            xmin = 2.5459823689607637 
+            xmax = 3.002471949702451 
+            text = "er" 
+        intervals [5]:
+            xmin = 3.002471949702451 
+            xmax = 4.001042907574892 
+            text = "" 
+        intervals [6]:
+            xmin = 4.001042907574892 
+            xmax = 4.457532488316579 
+            text = "er" 
+        intervals [7]:
+            xmin = 4.457532488316579 
+            xmax = 5.456103446189019 
+            text = "" 
+        intervals [8]:
+            xmin = 5.456103446189019 
+            xmax = 5.969654224523417 
+            text = "er" 
+        intervals [9]:
+            xmin = 5.969654224523417 
+            xmax = 7.0538169787849245 
+            text = "" 
+        intervals [10]:
+            xmin = 7.0538169787849245 
+            xmax = 7.595898355915678 
+            text = "er" 
+        intervals [11]:
+            xmin = 7.595898355915678 
+            xmax = 8.508877517399053 
+            text = "" 
+        intervals [12]:
+            xmin = 8.508877517399053 
+            xmax = 9.079489493326161 
+            text = "er" 
+        intervals [13]:
+            xmin = 9.079489493326161 
+            xmax = 10.020999253605892 
+            text = "" 
+        intervals [14]:
+            xmin = 10.020999253605892 
+            xmax = 10.506019433143933 
+            text = "er" 
+        intervals [15]:
+            xmin = 10.506019433143933 
+            xmax = 11.618712786201796 
+            text = "" 
+        intervals [16]:
+            xmin = 11.618712786201796 
+            xmax = 12.189324762128905 
+            text = "er" 
+        intervals [17]:
+            xmin = 12.189324762128905 
+            xmax = 13.387609911575835 
+            text = "" 
+        intervals [18]:
+            xmin = 13.387609911575835 
+            xmax = 13.844099492317522 
+            text = "er" 
+        intervals [19]:
+            xmin = 13.844099492317522 
+            xmax = 14.985323444171739 
+            text = "" 
+        intervals [20]:
+            xmin = 14.985323444171739 
+            xmax = 15.413282426117071 
+            text = "er" 
+        intervals [21]:
+            xmin = 15.413282426117071 
+            xmax = 16.875102040816326 
+            text = "" 

@@ -1,0 +1,98 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 16.638548752834467 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "o" 
+        xmin = 0 
+        xmax = 16.638548752834467 
+        intervals: size = 21 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.9068454500965678 
+            text = "" 
+        intervals [2]:
+            xmin = 0.9068454500965678 
+            xmax = 1.4131973312114519 
+            text = "o" 
+        intervals [3]:
+            xmin = 1.4131973312114519 
+            xmax = 2.3415091132554062 
+            text = "" 
+        intervals [4]:
+            xmin = 2.3415091132554062 
+            xmax = 2.7915996742464144 
+            text = "o" 
+        intervals [5]:
+            xmin = 2.7915996742464144 
+            xmax = 4.001218056909749 
+            text = "" 
+        intervals [6]:
+            xmin = 4.001218056909749 
+            xmax = 4.395047297776881 
+            text = "o" 
+        intervals [7]:
+            xmin = 4.395047297776881 
+            xmax = 5.6327963405021535 
+            text = "" 
+        intervals [8]:
+            xmin = 5.6327963405021535 
+            xmax = 6.054756241431224 
+            text = "o" 
+        intervals [9]:
+            xmin = 6.054756241431224 
+            xmax = 7.405027924404249 
+            text = "" 
+        intervals [10]:
+            xmin = 7.405027924404249 
+            xmax = 7.7425958451475045 
+            text = "o" 
+        intervals [11]:
+            xmin = 7.7425958451475045 
+            xmax = 8.952214227810838 
+            text = "" 
+        intervals [12]:
+            xmin = 8.952214227810838 
+            xmax = 9.289782148554096 
+            text = "o" 
+        intervals [13]:
+            xmin = 9.289782148554096 
+            xmax = 10.611923171465182 
+            text = "" 
+        intervals [14]:
+            xmin = 10.611923171465182 
+            xmax = 10.977621752270375 
+            text = "o" 
+        intervals [15]:
+            xmin = 10.977621752270375 
+            xmax = 12.159109474871773 
+            text = "" 
+        intervals [16]:
+            xmin = 12.159109474871773 
+            xmax = 12.581069375800842 
+            text = "o" 
+        intervals [17]:
+            xmin = 12.581069375800842 
+            xmax = 13.87507973864999 
+            text = "" 
+        intervals [18]:
+            xmin = 13.87507973864999 
+            xmax = 14.156386339269371 
+            text = "o" 
+        intervals [19]:
+            xmin = 14.156386339269371 
+            xmax = 15.394135381994642 
+            text = "" 
+        intervals [20]:
+            xmin = 15.394135381994642 
+            xmax = 15.816095282923714 
+            text = "o" 
+        intervals [21]:
+            xmin = 15.816095282923714 
+            xmax = 16.638548752834467 
+            text = "" 
